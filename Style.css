@@ -18,6 +18,9 @@ body a { color: inherit ;
 }
 
 body pre{color:black;
+            font-size:smaller;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: italic;
          
     
 }
